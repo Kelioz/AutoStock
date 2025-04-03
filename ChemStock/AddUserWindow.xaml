@@ -1,4 +1,4 @@
-﻿<Window x:Class="ChemStock.AddUserWindow"
+﻿<Window x:Class="AutoStock.AddUserWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="{Binding WindowTitle}" 

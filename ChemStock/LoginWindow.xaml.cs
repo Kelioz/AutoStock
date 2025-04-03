@@ -14,7 +14,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace ChemStock
+namespace AutoStock
 {
     /// <summary>
     /// Логика взаимодействия для LoginWindow.xaml

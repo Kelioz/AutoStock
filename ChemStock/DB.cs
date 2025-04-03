@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ChemStock
+namespace AutoStock
 {
     internal class DB
     {

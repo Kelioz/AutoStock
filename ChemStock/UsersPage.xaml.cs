@@ -4,7 +4,7 @@ using System.Data.SqlClient;
 using System.Windows;
 using System.Windows.Controls;
 
-namespace ChemStock
+namespace AutoStock
 {
     public partial class UsersPage : Page
     {

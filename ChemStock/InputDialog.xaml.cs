@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace ChemStock
+namespace AutoStock
 {
     public partial class InputDialog : Window
     {

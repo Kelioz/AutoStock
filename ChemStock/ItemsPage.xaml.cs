@@ -11,7 +11,7 @@ using System.Windows.Data;
 using System.Windows.Media;
 using iTextSharp.text;
 using System.Windows.Forms;
-namespace ChemStock
+namespace AutoStock
 {
     public partial class ItemsPage : Page
     {

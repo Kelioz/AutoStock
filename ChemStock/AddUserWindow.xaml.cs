@@ -4,7 +4,7 @@ using System.Data.SqlClient;
 using System.Windows;
 using System.Windows.Input;
 
-namespace ChemStock
+namespace AutoStock
 {
     public partial class AddUserWindow : Window
     {
